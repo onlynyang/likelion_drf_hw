@@ -44,3 +44,4 @@ class TagSerializer(serializers.ModelSerializer):
     class Meta:
         model = Tag
         fidels = '__all__'
+
